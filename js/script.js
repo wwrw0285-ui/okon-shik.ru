@@ -34,7 +34,7 @@ function toggleMenu() {
 }
 
 // ВАЖНО: Получите ключ на web3forms.com и вставьте сюда
-const WEB3FORMS_ACCESS_KEY = "ВАШ_ACCESS_KEY_СЮДА"; 
+const WEB3FORMS_ACCESS_KEY = "459e9da0-3554-4d73-957f-7b980a3cc6f4"; 
 
 async function submitForm(event, defaultSource) {
     event.preventDefault();
